@@ -1,0 +1,4 @@
+id,kode,nomor,tipe,harga,status
+1,KMR001,A1,Standar,600000,terisi
+2,KMR002,A2,Standar,600000,tersedia
+3,KMR003,B1,Deluxe,900000,tersedia
